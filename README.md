@@ -1,6 +1,6 @@
 # PROJECTS
-My projects that I have made throughout high school that are worth sharing.
+I made these projects to challenge my understanding of C++ by researching and implementing advanced concepts.
 
-Introduction to Computer Studies [ICS3U1-02]
+(2023-2024)Introduction to Computer Studies [ICS3U1-02]
 
-Introduction to Computer Science [ICS3U1-02]
+(2024-2025)Introduction to Computer Science [ICS3U1-02]
