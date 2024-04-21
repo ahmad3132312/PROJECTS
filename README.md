@@ -1,2 +1,2 @@
 # PROJECTS
-My projects that I have made throughout my high school
+My projects that I have made throughout high school 
