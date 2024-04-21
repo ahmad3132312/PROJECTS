@@ -1,0 +1,24 @@
+Hello Mr.Vrsinga this is the log for my final assigment
+
+2024-01-11: BrainStorming ideas for game
+2024-01-12: Making cover art(DISC)
+2024-01-13: Making cover art(3D model of game)
+2024-01-14: Searching for sprites
+2024-01-15: Searching for sprites
+2024-01-16: Searching for sprites(Found a good knight sprite)
+2024-01-17: Searching for sprites(Found a good target sprite)
+2024-01-17: Found a nice forest background
+2024-01-18: Editing the sprites
+2024-01-18: Created the intro for the game
+2024-01-19: Knight movement and attack animation
+2024-01-19: Targets movement and attack animation
+2024-01-20: Gravity / Collisons 
+2024-01-21 : Polishing
+2024-01-22 : Polishing
+2024-01-23 : New idea (add a sidescoller move ment to my game)
+2024-01-24 : Polishing
+2024-01-25 : Polishing
+
+
+
+
